@@ -1,0 +1,10 @@
+Cluster type: 
+- 3 Nodes (1 driver, 2 workers
+- N1 series
+Block size in HDFS:
+- 128 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 5g

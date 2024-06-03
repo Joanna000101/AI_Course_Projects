@@ -1,0 +1,85 @@
+Question 2:
+
+Cluster type:
+- 1 Nodes (1 driver, 0 worker)
+Block size in HDFS:
+- 128 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 1g
+
+=====================================
+
+Question 3:
+
+Cluster type:
+- 3 Nodes (1 driver, 2 workers)
+Block size in HDFS:
+- 128 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 1g
+
+=====================================
+
+Question 4:
+
+Cluster type:
+- 3 Nodes (1 driver, 2 workers)
+Block size in HDFS:
+- 64 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 1g
+
+
+=====================================
+
+Question 5:
+
+Cluster type:
+- 3 Nodes (1 driver, 2 workers)
+Block size in HDFS:
+- 128 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 5g
+
+
+=====================================
+
+Question 6:
+
+Cluster type:
+- 3 Nodes (1 driver, 2 workers)
+Block size in HDFS:
+- 128 MB
+Replication factor:
+1
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 5g
+
+=====================================
+
+Question 7:
+
+Cluster type:
+- 3 Nodes (1 driver, 2 workers)
+Block size in HDFS:
+- 64 MB
+Job Properties: 
+- spark.executor.cores = 4
+- spark.driver.cores = 4
+- spark.executor.memory = 5g
+- spark.driver.memory = 5g
