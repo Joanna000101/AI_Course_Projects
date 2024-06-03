@@ -1,0 +1,5 @@
+First introduced in 2010, Apache Spark is one of the most popular modern cluster computing frameworks.
+By leveraging its innovative distributed memory abstraction – Resilient Distributed Datasets (RDDs) – Apache Spark provides an effective solution to the I/O inefficiency of MapReduce, while retaining its scalability and fault tolerance.
+In this assignment, you are going to deploy Spark and HDFS, write a Spark program generating a web graph from the entire Wikipedia, and write a PageRank program to analyze the web graph.
+You will run those applications using Spark over HDFS in Google Cloud Dataproc.
+Finally, you will write a stream emitter using Spark Streaming and a parser using Spark Structured Streaming to play with the recent trend of working with streaming data.
